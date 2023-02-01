@@ -8,3 +8,14 @@ https://real-statistics.com/distribution-fitting/fitting-weibull-regression/
 https://math.stackexchange.com/questions/1769765/weibull-distribution-from-mean-and-variance-to-shape-and-scale-factor
 
 p-p plot: https://www.youtube.com/watch?v=xqOV-dWk6pU
+
+http://www.sfu.ca/sasdoc/sashtml/qc/chap8/sect9.htm#:~:text=A%20P%2DP%20plot%20compares%20the,a%20specified%20family%20of%20distributions.  (use q-q plot when shape parameters are unkown)
+
+
+https://seaborn-qqplot.readthedocs.io/en/latest/
+
+https://stackoverflow.com/questions/46935289/quantile-quantile-plot-using-seaborn-and-scipy
+
+https://docs.scipy.org/doc/scipy/reference/generated/scipy.stats.probplot.html
+
+https://stackoverflow.com/questions/48108582/how-to-interpret-scipy-stats-probplot-results
